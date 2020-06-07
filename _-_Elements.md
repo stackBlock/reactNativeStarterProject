@@ -51,3 +51,13 @@ return (
   <Text>Go to List Demo</Text>
 </TouchableOpacity>
 ```
+
+## **_Image_** - require 1 prop
+
+1. source
+
+- example:
+
+```javascript
+<Image source={require("./../../assets/beach.jpg")} />
+```
